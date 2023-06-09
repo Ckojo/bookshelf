@@ -1,0 +1,9 @@
+# Logfile created on 2023-06-09 22:18:25 +0200 by logger.rb/v1.4.3
+[bookshelf] [INFO] [2023-06-09 22:18:25 +0200] GET 200 94µs 127.0.0.1 / -
+[bookshelf] [INFO] [2023-06-09 22:18:45 +0200] GET 200 40µs 127.0.0.1 / -
+[bookshelf] [INFO] [2023-06-09 22:21:49 +0200] GET 200 29ms 127.0.0.1 / -
+[bookshelf] [INFO] [2023-06-09 22:29:32 +0200] GET 200 8ms 127.0.0.1 /books -
+[bookshelf] [INFO] [2023-06-09 22:29:49 +0200] GET 200 33ms 127.0.0.1 / -
+[bookshelf] [INFO] [2023-06-09 22:29:49 +0200] GET 200 1ms 127.0.0.1 /books -
+[bookshelf] [INFO] [2023-06-09 22:31:09 +0200] GET 200 34ms 127.0.0.1 /books -
+[bookshelf] [INFO] [2023-06-09 22:31:09 +0200] GET 200 1ms 127.0.0.1 / -
