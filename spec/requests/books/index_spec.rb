@@ -17,8 +17,8 @@ RSpec.describe "GET /books", type: :request do
     response_body = JSON.parse(last_response.body)
 
     expect(response_body).to eq([
-      { "title" => "Test Driven Development" },
-      { "title" => "Practical Object-Oriented Design in Ruby" }
+      { "title" => "Practical Object-Oriented Design in Ruby" },
+      { "title" => "Test Driven Development" }
     ])
   end
 end

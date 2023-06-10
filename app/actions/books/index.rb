@@ -10,7 +10,7 @@ module Bookshelf
           # Accessing relations directly from actions is not a commonly recommended pattern. 
           # Instead, a rom repository should be used. Here, however, the repository is ommitted for brevity.
           books = rom.relations[:books]
-            .select(:title, :author)
+            .select(:title)
             .order(:title)
             .to_a
 
