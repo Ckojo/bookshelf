@@ -216,6 +216,7 @@ DEPENDENCIES
   hanami-rspec
   hanami-validations (~> 2.0)
   pg
+  pry
   puma
   rack-test
   rake
